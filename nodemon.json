@@ -1,11 +1,12 @@
 {
     "env":{
+        "CONNECTIONLIMIT":1000,
         "MYSQL_USER":"",
-        "MYSQL_PASSWORD":"",
+        "MYSQL_PASSWORD":"0",
         "MYSQL_DATABASE":"",
-        "MYSQL_HOST":"",
+        "MYSQL_HOST":"m",
         "MYSQL_PORT":"",
-        "JWT_KEY":""
+        "JWT_KEY":"TOKEN_API"
     }
 }
 
